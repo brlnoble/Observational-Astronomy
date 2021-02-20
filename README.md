@@ -1,5 +1,5 @@
 # Observational-Astronomy
-Using data from the Gaia Archive from the ESA, I extracted data from certain parts of the sky to find star clusters within.
+Using data from the Gaia Archive from the ESA, I extracted data from certain parts of the sky to find star clusters within. Using the proper motions and positions (right ascension and declination), I was able to produce Colour-Magnitude plots very similar to those found in research papers.
 
 
 Data from: https://gea.esac.esa.int/archive/
